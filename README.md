@@ -47,8 +47,10 @@ This project uses **Pixi** to ensure flawless cross-platform reproduction withou
 
 Initialize the Pixi environment: (Bash commands)
 
-pixi init \n
-pixi add "python=3.10" opencv "numpy<2" \n
+pixi init
+
+pixi add "python=3.10" opencv "numpy<2"
+
 pixi add --pypi tflite-runtime
 
 running the script, use this command ---> pixi run python main.py
