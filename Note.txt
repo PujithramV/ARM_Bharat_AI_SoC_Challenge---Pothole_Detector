@@ -1,0 +1,3 @@
+Install Pixi
+Make sure it's in Python 3.10
+Use NumPy Version < 2.0

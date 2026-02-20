@@ -1,0 +1,15 @@
+[workspace]
+channels = ["conda-forge"]
+name = "road_ai"
+platforms = ["linux-aarch64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.10.*"
+opencv = ">=4.13.0,<5"
+numpy = "<2"
+
+[pypi-dependencies]
+tflite-runtime = ">=2.13.0, <3"
