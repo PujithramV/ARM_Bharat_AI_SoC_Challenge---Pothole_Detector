@@ -7,7 +7,7 @@ This repository contains an edge-optimized, real-time object detection system de
 * **Hardware:** Raspberry Pi 4 (Model B)
 * **Model Format:** TensorFlow Lite (INT8 Quantized)
 * **Mean Average Precision (mAP):** `0.878`
-* **Inference Speed:** `~5.6 FPS` (Exceeding the $\geq$5 FPS target requirement)
+* **Inference Speed:** `~5.6 FPS` (Exceeding the 5 FPS target requirement)
 
 ---
 
